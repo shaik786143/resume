@@ -1,0 +1,16 @@
+TECHNICAL SKILL EXPLORING:-
+-------------------------------
+*****HOW TO DEPLOY DJANGO APPLICATION BY USING AWS:-
+
+------------------------------------------------------------------
+STEP:-1
+--------
+sample django project u can clone from the following github link
+*****https://github.com/yeshwanthlm/django-on-ec2****
+-------------------------------------------------------------
+STEP:-2
+-------
+create 1 ubuntu free tier instance by using AWS Portal
+
+u can connect from there by clicking connect button from aws server
+
