@@ -81,7 +81,7 @@ DATABASES = {
         'NAME': BASE_DIR / 'db.sqlite3',
     }
 }
-DATABASES = {
+'''DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'resume',
@@ -94,7 +94,7 @@ DATABASES = {
             'charset': 'utf8mb4',
         }
     }
-}
+}'''
 
 
 # Password validation
